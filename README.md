@@ -48,5 +48,6 @@ policy_net_final_DDQN.pth이 최종 훈련된 모델입니다.
 ```
 
 ## train set image
+![training_result_DDQN](https://github.com/rirakim/reinforcement/assets/86561075/88fca9da-4856-43aa-baf1-c55c733e91db)
+![training_score_DDQN](https://github.com/rirakim/reinforcement/assets/86561075/8092b0e2-0241-4ff1-a545-a52c044764be)
 
-## test set image
