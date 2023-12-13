@@ -36,6 +36,11 @@ python3 DDQN.py
 python3 run_double_DQN.py
 ```
 
+## trained model
+```
+policy_net_final_DDQN.pth이 최종 훈련된 모델입니다.
+```
+
 ## results:
 
 ```
